@@ -1,5 +1,11 @@
 ## Hello and Hello 👋
 
+## Skills
+
+- **Languages**: C++, 
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
+
 <!--
 **takashinosuke/takashinosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
