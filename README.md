@@ -3,7 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takashinosuke&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=takashinosuke&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-![](https://github-readme-stats.vercel.app/api/top-langs?takashinosuke=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 <img src="https://github-profile-trophy.vercel.app/?username=takashinosuke&theme=juicyfresh&no-bg=true" />
 
