@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=takashinosuke&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
-![](https://skillicons.dev/icons?i=,matlab,python,c++)
+![](https://skillicons.dev/icons?i=matlab,C++,C,python)
 
 <img src="https://github-profile-trophy.vercel.app/?username=takashinosuke&theme=juicyfresh&no-bg=true" />
 
