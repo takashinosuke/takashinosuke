@@ -1,14 +1,6 @@
 ## Hello and Hello 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=takashinosuke&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=takashinosuke&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
-![](https://skillicons.dev/icons?i=cs,c,matlab,python,ubuntu,vscode)
-
-<img src="https://github-profile-trophy.vercel.app/?username=takashinosuke&theme=juicyfresh&no-bg=true" />
-
-<!--
 **takashinosuke/takashinosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
